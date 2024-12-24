@@ -1,0 +1,3 @@
+# Uncommon CSS `calc()` Errors
+
+This repository demonstrates common yet subtle errors encountered while using the CSS `calc()` function.  Specifically, it focuses on issues related to unit consistency and operator precedence.  The `bug.css` file contains the erroneous code, while `bugSolution.css` provides the corrected version.  Understanding these issues is crucial for creating robust and predictable CSS layouts.
